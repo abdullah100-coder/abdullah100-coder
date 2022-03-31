@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Md. Abdullah Antor.
-- 👀 I an an Android App developer.
-- 🌱 I’m currently learning advanced backend android development.
-- 💞️ I’m looking to collaborate with a tech company to build some cool things. 
-- 📫 You can reach me by my phone or email. I am also active in facebook.
+- 💞️ I am an Android App developer and an IT spacialist.
+- 🌱 Currently I am working as an IT officer at Green University of Bangladesh.
+- 👀 I’m looking to collaborate with a tech company to participate on something amazing. 
+- 📫 You can reach me by my phone or email. I am also available on facebook.
 - Cell: +8801757435461
 - Email: abdullahantor1@gmail.com
+- My portfolio: https://abdullah100-coder.github.io/My-Profile/
 - Fb profile link: https://www.facebook.com/abdullah.antor
 - Here is all the android projects developed by me: https://drive.google.com/drive/folders/1ChH-vA9ETWVIXjX3ibO97wLE77xK4_8b?usp=sharing
 
