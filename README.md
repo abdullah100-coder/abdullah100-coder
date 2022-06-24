@@ -6,6 +6,6 @@
 - Cell: +8801757435461
 - Email: abdullahantor1@gmail.com
 - My portfolio: https://abdullah100-coder.github.io/My-Profile/
-- Fb profile link: https://www.facebook.com/abdullah.antor
+- LinkedIn profile: https://www.linkedin.com/in/md-abdullah-antor-/
 - Here is all the android projects developed by me: https://drive.google.com/drive/folders/1ChH-vA9ETWVIXjX3ibO97wLE77xK4_8b?usp=sharing
 
