@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Md. Abdullah Antor.
-- 💞️ I am an Android App developer and an IT spacialist.
-- 🌱 Currently I am working as an IT officer at Green University of Bangladesh.
+- 💞️ I am an Android App developer.
+- 🌱 I am fluent in Java, OOP, Native Android SDK, Firebase, SQLite etc.
 - 👀 I’m looking to collaborate with a tech company to participate on something amazing. 
-- 📫 You can reach me by my phone or email. I am also available on facebook.
+- 📫 You can reach me by my phone or email. I am also available on LinkedIn.
 - Cell: +8801757435461
 - Email: abdullahantor1@gmail.com
 - My portfolio: https://abdullah100-coder.github.io/My-Profile/
 - LinkedIn profile: https://www.linkedin.com/in/md-abdullah-antor-/
-- Here is all the android projects developed by me: https://drive.google.com/drive/folders/1ChH-vA9ETWVIXjX3ibO97wLE77xK4_8b?usp=sharing
-
+- You can use some of my projects from here: https://drive.google.com/drive/folders/1ChH-vA9ETWVIXjX3ibO97wLE77xK4_8b?usp=sharing
