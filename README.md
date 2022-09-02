@@ -3,7 +3,7 @@
 - 🌱 I am fluent in Java, OOP, Native Android SDK, Firebase, SQLite etc.
 - 👀 I’m looking to collaborate with a tech company to participate on something amazing. 
 - 📫 You can reach me by my phone or email. I am also available on LinkedIn.
-- Cell: +8801757435461
+- Cell: +8801757-435461
 - Email: abdullahantor1@gmail.com
 - My portfolio: https://abdullah100-coder.github.io/My-Profile/
 - LinkedIn profile: https://www.linkedin.com/in/md-abdullah-antor-/
